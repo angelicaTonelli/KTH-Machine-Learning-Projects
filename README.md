@@ -5,12 +5,7 @@ Implementations and experiments developed during the Machine Learning course at 
 ## Projects
 
 ### Support Vector Machines
-Implementation and analysis of linear and nonlinear SVM classifiers, including:
-- hard and soft margin classification
-- kernel methods
-- polynomial and RBF kernels
-- decision boundary analysis
-- effect of hyperparameters and data distributions
+Implementation and analysis of linear and nonlinear SVM classifiers.
 
 ### Decision Trees
 Implementation and analysis of decision-tree-based classification methods.
